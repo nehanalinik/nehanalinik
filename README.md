@@ -1,6 +1,6 @@
 # Hi there, I'm Neha Kennedy 👋
 
-I'm a passionate **Software Engineer** with a flair for building dynamic web and mobile applications. With a rich background as a freelance developer and UI/UX designer, I love turning ideas into seamless digital experiences.
+I'm a passionate **Software Engineer** with a flair for building dynamic web and mobile applications. With a rich background as a Software Developer and UI/UX designer, I love turning ideas into seamless digital experiences.
 
 ## 🚀 Tech Stack & Skills
 
