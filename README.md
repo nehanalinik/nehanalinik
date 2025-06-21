@@ -31,5 +31,3 @@ Previously a freelance developer and UI/UX designer, I bring creativity and user
 When I’m not coding, you’ll find me exploring new design trends, learning about emerging tech, or enjoying a good cup of coffee ☕.
 
 ---
-
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehanalinik&show_icons=true&theme=radical)
